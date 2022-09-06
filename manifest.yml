@@ -1,0 +1,6 @@
+---
+applications:
+ - name: bruh121
+   random-route: false
+   memory: 128M
+   
